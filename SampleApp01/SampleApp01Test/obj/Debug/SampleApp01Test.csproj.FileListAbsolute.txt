@@ -1,0 +1,7 @@
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\bin\Debug\SampleApp01Test.dll
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\bin\Debug\SampleApp01Test.pdb
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\bin\Debug\nunit.framework.dll
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\bin\Debug\nunit.framework.xml
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\obj\Debug\SampleApp01Test.csprojResolveAssemblyReference.cache
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\obj\Debug\SampleApp01Test.dll
+C:\Users\SASASHI\Source\Repos\TfsCiSample\TfsCiSample\SampleApp01\SampleApp01Test\obj\Debug\SampleApp01Test.pdb
